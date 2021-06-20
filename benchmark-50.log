@@ -1,0 +1,67 @@
+SET: 0.00SET: 39501.99SET: 36746.51SET: 29088.86SET: 26989.04SET: 26988.04SET: 28264.63SET: 27647.09SET: 27952.10SET: 27260.43SET: 26023.92SET: 25453.13SET: 25030.53SET: 24934.13SET: 25245.02SET: 25672.33====== SET ======
+  100000 requests completed in 3.88 seconds
+  50 parallel clients
+  50 bytes payload
+  keep alive: 1
+
+56.53% <= 1 milliseconds
+87.58% <= 2 milliseconds
+93.69% <= 3 milliseconds
+95.88% <= 4 milliseconds
+97.44% <= 5 milliseconds
+98.18% <= 6 milliseconds
+98.67% <= 7 milliseconds
+98.98% <= 8 milliseconds
+99.10% <= 9 milliseconds
+99.22% <= 10 milliseconds
+99.48% <= 11 milliseconds
+99.53% <= 12 milliseconds
+99.66% <= 13 milliseconds
+99.75% <= 14 milliseconds
+99.84% <= 15 milliseconds
+99.88% <= 16 milliseconds
+99.92% <= 17 milliseconds
+99.94% <= 18 milliseconds
+99.96% <= 20 milliseconds
+99.96% <= 21 milliseconds
+99.97% <= 22 milliseconds
+99.99% <= 23 milliseconds
+100.00% <= 27 milliseconds
+100.00% <= 27 milliseconds
+25799.79 requests per second
+
+GET: 37448.00GET: 36506.67GET: 31971.29GET: 25480.77GET: 23902.12GET: 25742.78GET: 26824.97GET: 27785.79GET: 28204.12GET: 27541.07GET: 26962.82GET: 26422.14GET: 26716.88GET: 27402.29====== GET ======
+  100000 requests completed in 3.59 seconds
+  50 parallel clients
+  50 bytes payload
+  keep alive: 1
+
+65.05% <= 1 milliseconds
+90.95% <= 2 milliseconds
+95.58% <= 3 milliseconds
+97.14% <= 4 milliseconds
+98.00% <= 5 milliseconds
+98.57% <= 6 milliseconds
+98.89% <= 7 milliseconds
+99.16% <= 8 milliseconds
+99.27% <= 9 milliseconds
+99.40% <= 10 milliseconds
+99.47% <= 11 milliseconds
+99.53% <= 12 milliseconds
+99.66% <= 13 milliseconds
+99.69% <= 14 milliseconds
+99.81% <= 15 milliseconds
+99.83% <= 18 milliseconds
+99.83% <= 19 milliseconds
+99.84% <= 20 milliseconds
+99.86% <= 23 milliseconds
+99.87% <= 24 milliseconds
+99.87% <= 25 milliseconds
+99.90% <= 26 milliseconds
+99.93% <= 27 milliseconds
+99.96% <= 28 milliseconds
+99.98% <= 31 milliseconds
+100.00% <= 31 milliseconds
+27886.22 requests per second
+
+
